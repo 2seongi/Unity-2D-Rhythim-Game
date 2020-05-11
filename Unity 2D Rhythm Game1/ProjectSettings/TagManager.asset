@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2129795113
+    locked: 0
+  - name: Judge Lines
+    uniqueID: 1131087113
+    locked: 0
+  - name: Notes
+    uniqueID: 461372877
+    locked: 0
+  - name: Judgement
+    uniqueID: 2957753989
+    locked: 0
+  - name: effect
+    uniqueID: 3186650675
+    locked: 0
